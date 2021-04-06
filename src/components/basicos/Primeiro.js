@@ -1,3 +1,4 @@
+import React from 'react'
 export default function Primeiro() {
-    return 'Primeiro Componete'
+    const msg = 'Primeiro Componete'
 }
